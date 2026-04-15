@@ -26,7 +26,7 @@ from urllib.parse import urlparse
 # PAGE CONFIGURATION
 # ==============================================================================
 st.set_page_config(
-    page_title="PhishTriage | SOC Analysis Tool",
+    page_title="MailScanner | Phishing Analysis Tool",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded",
